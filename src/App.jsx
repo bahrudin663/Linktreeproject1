@@ -4,10 +4,10 @@ import Footer from "./components/Footer";
 
 const App = () => {
   const links = [
-    { href: "https://example.com", label: "Visit My Website" },
-    { href: "https://github.com", label: "GitHub Profile" },
-    { href: "https://linkedin.com", label: "LinkedIn Profile" },
-    { href: "https://twitter.com", label: "Twitter" },
+    { href: "https://sites.google.com/view/centrumetaversity/beranda?authuser=0", label: "Visit My Website" },
+    { href: "https://github.com/bahrudin663", label: "GitHub Profile" },
+    { href: "https://www.linkedin.com/in/bahrudin-pakuwinata-61a51a59/?originalSubdomain=id", label: "LinkedIn Profile" },
+    { href: "https://x.com/pakuwina", label: "Twitter" },
   ];
 
   return (
